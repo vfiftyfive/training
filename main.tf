@@ -27,7 +27,7 @@ variable "aws_region" {
 }
 
 variable "max_count" {
-  default = "3"
+  default = "2"
 }
 
 provider "aws" {
